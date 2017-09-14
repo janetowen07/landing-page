@@ -65,6 +65,10 @@ body {
     display: flex;
 }
 
+#section-c div {
+    padding: 20px;
+}
+
 #section-c .box1, #section-c .box3 {
     background: #926239;
     color: #fff;
