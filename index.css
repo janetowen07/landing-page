@@ -64,3 +64,8 @@ body {
 #section-c {
     display: flex;
 }
+
+#section-c .box1, #section-c .box3 {
+    background: #926239;
+    color: #fff;
+}
