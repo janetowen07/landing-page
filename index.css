@@ -8,4 +8,5 @@ body {
 
 #showcase {
     background-image: url('./landingPage/showcase.jpg');
+    height: 100vh;
 }
