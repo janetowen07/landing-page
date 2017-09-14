@@ -5,3 +5,7 @@ body {
     color: #926239;
     line-height:1.6;
 }
+
+#showcase {
+    background-image: url('./landingPage/showcase.jpg');
+}
